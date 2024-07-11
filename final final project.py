@@ -1,5 +1,5 @@
-API_KEY = 'a38ab516-e3a1-4911-8d13-209a150161b8'
-DEVICE_ID = 'BOLT3582521'   
+API_KEY = 'xxxxxxxxxxxxxxxxxxxxxxxx'##get your bolt credentials
+DEVICE_ID = 'BOLTxxxxxx'   
 from boltiot import Bolt
 import datetime
 import pytz
